@@ -1,0 +1,5 @@
+.prose h2 { @apply mt-6 text-xl font-black text-slate-900; }
+.prose p { @apply mt-3 text-slate-600; }
+.prose ul { @apply mt-3 list-disc pl-6 text-slate-600; }
+.prose li { @apply mt-1; }
+.prose a { @apply text-slate-900 underline font-semibold; }

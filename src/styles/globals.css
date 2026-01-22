@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './prose.css';
+
+:root { color-scheme: light; }
+html, body { height: 100%; }
+a { text-decoration: none; }
+::selection { background: rgba(251, 191, 36, 0.35); }
