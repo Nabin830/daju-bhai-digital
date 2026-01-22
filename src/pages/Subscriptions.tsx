@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import Container from '../ui/components/Container'
 import Button from '../ui/components/Button'
 import Badge from '../ui/components/Badge'

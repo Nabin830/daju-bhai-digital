@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useEffect, useMemo, useState } from 'react'
+import { createContext, useContext, useEffect, useMemo, useState } from 'react'
 import { PRODUCTS } from '../data/products'
 import type { DigitalProduct } from '../types/catalog'
 import { readLS, writeLS } from '../lib/storage'

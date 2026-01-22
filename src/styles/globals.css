@@ -1,8 +1,8 @@
+@import './prose.css';
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-@import './prose.css';
 
 :root { color-scheme: light; }
 html, body { height: 100%; }

@@ -1,4 +1,3 @@
-import React from 'react'
 import { CurrencyProvider } from './CurrencyProvider'
 import { CartProvider } from './CartProvider'
 

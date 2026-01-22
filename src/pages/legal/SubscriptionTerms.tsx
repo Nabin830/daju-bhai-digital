@@ -1,4 +1,3 @@
-    import React from 'react'
     import Container from '../../ui/components/Container'
     import Badge from '../../ui/components/Badge'
     import { SITE } from '../../config/site'

@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import Container from '../ui/components/Container'
 import Input from '../ui/components/Input'
 import Button from '../ui/components/Button'

@@ -1,4 +1,3 @@
-import React from 'react'
 import type { Currency } from '../../lib/currency'
 import { formatMoney } from '../../lib/currency'
 import { useCurrency } from '../../providers/CurrencyProvider'

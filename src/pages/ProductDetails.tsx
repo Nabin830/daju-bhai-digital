@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react'
+import { useMemo } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import Container from '../ui/components/Container'
 import Badge from '../ui/components/Badge'

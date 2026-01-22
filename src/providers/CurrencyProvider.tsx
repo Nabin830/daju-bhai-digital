@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useEffect, useMemo, useState } from 'react'
+import { createContext, useContext, useEffect, useMemo, useState } from 'react'
 import type { Currency } from '../lib/currency'
 import { DEFAULT_CURRENCY } from '../lib/currency'
 import { readLS, writeLS } from '../lib/storage'

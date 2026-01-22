@@ -1,4 +1,3 @@
-import React from 'react'
 import { Outlet, ScrollRestoration } from 'react-router-dom'
 import SiteHeader from './SiteHeader'
 import SiteFooter from './SiteFooter'
